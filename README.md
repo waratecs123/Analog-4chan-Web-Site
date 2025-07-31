@@ -14,10 +14,10 @@ A minimalist, analog-style web forum inspired by 4chan. This project aims to rec
 
 ## Technologies Used
 
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Backend**: [Your Backend Tech]
-- **Database**: [Your Database]
-- **Deployment**: [Your Deployment Method]
+- **Frontend**: HTML5, CSS3
+- **Backend**: Django
+- **Database**: SQLite3
+- **Deployment**: ----
 
 ## Installation
 
