@@ -2,7 +2,6 @@
 
 A minimalist, analog-style web forum inspired by 4chan. This project aims to recreate the simplicity and anonymity of classic imageboards with a retro aesthetic.
 
-![Project Preview](https://via.placeholder.com/800x400?text=Analog+4chan+Preview) <!-- Replace with actual screenshot -->
 
 ## Features
 
